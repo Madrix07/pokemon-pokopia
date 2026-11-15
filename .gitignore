@@ -1,0 +1,6 @@
+.DS_Store
+yarn-error.log*
+npm-debug.log*
+*.tgz
+.env.local
+build/
